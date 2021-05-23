@@ -2,7 +2,7 @@
 
 ### Medium Blog Post
 <!-- MEDIUM:START -->
-- [Working with molecular structures in pandas DataFrames](https://python.plainenglish.io/working-with-molecular-structures-in-pandas-dataframes-f032c0aad5d4?source=rss-287ac3a2ea21------2)
+- [Working with Molecular Structures in pandas DataFrames](https://python.plainenglish.io/working-with-molecular-structures-in-pandas-dataframes-f032c0aad5d4?source=rss-287ac3a2ea21------2)
 - [Bioinformatics Databases-Biopython](https://bhageshhunakunti.medium.com/bioinformatics-databases-biopython-8253cd1cb7c4?source=rss-287ac3a2ea21------2)
 - [Earning from Medium (For Non-Eligible Countries) — 2021 [NOT A CLICKBAIT]](https://bhageshhunakunti.medium.com/earning-from-medium-for-non-eligible-countries-2021-not-a-clickbait-2eb3347ea413?source=rss-287ac3a2ea21------2)
 - [Protein Modeling & Drug Docking Studies](https://bhageshhunakunti.medium.com/protein-modeling-drug-docking-studies-f5ca244277b0?source=rss-287ac3a2ea21------2)
