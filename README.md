@@ -24,9 +24,9 @@ Accelerate ML & Data Science development](https://bhagesh.tech/redefining-import
 
 <!-- YouTube:START -->
 - [CIRCOS on Windows : 02- ABC of Circos](https://www.youtube.com/watch?v=4n_Ckdhirnw)
-- [Data Science 101: Free Data Science / Web development IDE's](https://www.youtube.com/watch?v=9klNkcAwWuk)
+- [Data Science 101: Free Data Science / Web development IDE&#39;s](https://www.youtube.com/watch?v=9klNkcAwWuk)
 - [CIRCOS on Windows : 01- Installation](https://www.youtube.com/watch?v=8fCEhUwkNm0)
-- [Face mask detector: No Code ML Model (Tensorflow lite & Tensorflow)](https://www.youtube.com/watch?v=wDq1MxiQ_1M)
+- [Face mask detector: No Code ML Model &lpar;Tensorflow lite &amp; Tensorflow&rpar;](https://www.youtube.com/watch?v=wDq1MxiQ_1M)
 - [The Ultimate IDE: ML/AI without a powerful PC](https://www.youtube.com/watch?v=9qg2e7HH1dQ)
 <!-- YouTube:END -->
 
